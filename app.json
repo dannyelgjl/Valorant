@@ -1,0 +1,12 @@
+{
+  "name": "valorant",
+  "displayName": "valorant",
+  "expo": {
+    "name": "valorant",
+    "slug": "valorant",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
